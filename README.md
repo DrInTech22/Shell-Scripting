@@ -1,7 +1,7 @@
 
 # Shell Scripting
 
-An overview of shell scripting with projects 
+An overview of shell scripting 
 
 
 ## Shell
